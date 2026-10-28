@@ -34,33 +34,6 @@ Sorriae/
 ├── README.md
 ```
 
-## Como executar
-
-Como o projeto é estático, não há necessidade de instalar dependências.
-
-### Opção 1
-Abra o arquivo `index.html` diretamente no navegador.
-
-### Opção 2
-Use um servidor local simples, por exemplo:
-
-```bash
-python -m http.server 8000
-```
-
-Depois acesse:
-
-```text
-http://localhost:8000
-```
-
-## Funcionalidades principais
-
-- navegação por seções do guia;
-- seleção de faixa etária para exibir a quantidade ideal de creme dental;
-- passos interativos para orientações de trauma dentário;
-- layout responsivo para versões desktop e mobile;
-- uso de imagens e ilustrações para facilitar a compreensão.
 
 ## Observação
 
